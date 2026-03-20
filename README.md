@@ -16,4 +16,4 @@
 
 ## Preview
 GitHub Pages:
-https://palette0925-svg.github.io/news-coding-test/
+https://palette0925-svg.github.io/test/
